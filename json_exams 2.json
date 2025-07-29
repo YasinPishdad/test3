@@ -1,0 +1,26 @@
+{
+  "exam" : {
+    "items": [
+      {
+        "name": "item1",
+        "link": "https://example.com/item1"
+      },
+      {
+        "name": "item2",
+        "link": "https://example.com/item2"
+      }
+    ]
+  },
+  "exam2" : {
+    "items": [
+      {
+        "name": "itemA",
+        "link": "https://example.com/itemA"
+      },
+      {
+        "name": "itemB",
+        "link": "https://example.com/itemB"
+      }
+    ]
+  }
+}
