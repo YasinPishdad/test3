@@ -1,26 +1,55 @@
 {
-  "class10" : [
+  "class7": [
     {
-      "reshte_name" : "riazy",
-      "lessons" : [
-        {
-          "lesson_name" : "farsi",
-          "exams" : [
-            {
-              "exam_name" : "exam1farsi",
-              "link" : "link"
-            },
-            {
-              "exam_name" : "exam2farsi",
-              "link" : "link"
-            },
-            {
-              "exam_name" : "exam3farsi",
-              "link" : "link"
-            }
-          ]
-        }
-      ]
+      "name": "نمونه سوال امتحانی ریاضی هفتم خرداد 1403",
+      "link": "https://www.kanoon.ir/Downloads/ExamQuestion/120919",
+      "answer": "yes"
+    },
+    {
+      "name": "نمونه سوال امتحانی علوم هفتم نیم سال دوم",
+      "link": "https://www.kanoon.ir/Downloads/ExamQuestion/71074",
+      "answer": "yes"
+    },
+    {
+      "name": "نمونه سوال امتحانی علوم هفتم خرداد 1404",
+      "link": "https://www.kanoon.ir/Downloads/ExamQuestion/161350",
+      "answer": "no"
     }
-  ]  
+  ],
+  "class10": {
+    "reshteh_raizy": [
+      {
+        "name": "سوالات نهایی فزیک 1 رشته ریاضی خرداد 1403",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/117571",
+        "answer": "yes"
+      },
+      {
+        "name": "نمونه سوال امتحانی فیزیک رشته ریاضی نیم سال دوم 1404",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/160377",
+        "answer": "no"
+      },
+      {
+        "name": "نمونه سوال هندسه دهم خرداد 1404",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/118386",
+        "answer": "yes"
+      }
+    ],
+    "reshteh_tajroby": [
+      {
+        "name": "سوالات امتحان نهایی شیمی دهم خرداد 1403",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/116992",
+        "answer": "yes"
+      },
+      {
+        "name": "سوالات نهاییزیست دهم شهریور 1402",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/92850",
+        "answer": "yes"
+      },
+      {
+        "name": "نمونه سوال امتحانی فارسی دهم خرداد 1404",
+        "link": "https://www.kanoon.ir/Downloads/ExamQuestion/155739",
+        "answer": "no"
+      }
+    ]
+  }
 }
