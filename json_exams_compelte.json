@@ -21,28 +21,6 @@
           ]
         }
       ]
-    },
-    {
-      "reshte_name" : "tajrobi",
-      "lessons" : [
-        {
-          "lesson_name" : "farsi",
-          "exams" : [
-            {
-              "exam_name" : "exam1farsi",
-              "link" : "link"
-            },
-            {
-              "exam_name" : "exam2farsi",
-              "link" : "link"
-            },
-            {
-              "exam_name" : "exam3farsi",
-              "link" : "link"
-            }
-          ]
-        }
-      ]
     }
   ]  
 }
