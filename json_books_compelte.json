@@ -1,5 +1,5 @@
 {
-  "class1": [
+  "اول": [
     {
       "name": "ریاضی اول",
       "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
@@ -16,8 +16,8 @@
       "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C106.jpg?itok=h4_nNGfE"
     }
   ],
-  "class10": {
-    "reshteh_raizy": [
+  "دهم": {
+    "ریاضی": [
       {
         "name": "فارسی دهم",
         "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/43/C110201.pdf",
@@ -34,7 +34,7 @@
         "image_link": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C110230.jpg?itok=8SYnhi9Z"
       }
     ],
-    "reshteh_tajroby": [
+    "تجربی": [
       {
         "name": "فیزیک دهم",
         "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/40/C110214.pdf",
