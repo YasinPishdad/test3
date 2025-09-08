@@ -45,6 +45,19 @@
         "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/40/C110216.pdf",
         "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C110216.jpg?itok=vw4npsKH"
       }
+    ],
+    "انسانی": [
+      {
+        "name": "فیزیک دهم",
+        "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/40/C110214.pdf",
+        "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C110214.jpg?itok=nuLBtsk2"
+      },
+      {
+        "name": "زیست دهم تجبی",
+        "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/40/C110216.pdf",
+        "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C110216.jpg?itok=vw4npsKH"
+      }
     ]
   }
 }
+
