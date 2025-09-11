@@ -3,16 +3,16 @@
     {
       "name": "ریاضی اول",
       "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
-      "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C105.jpg?itok=upl2nHt9"
+      "image_link": "https://dl.heyvagroup.com/admin/Files/upload/aval-riazi-1404.pdf"
     },
     {
       "name": "فارسی اول",
-      "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C103.pdf",
+      "link": "https://dl.heyvagroup.com/admin/Files/upload/aval-farsi-1404.pdf",
       "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C103.jpg?itok=xdfAKsIf"
     },
     {
       "name": "علوم اول",
-      "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C106.pdf",
+      "link": "https://dl.heyvagroup.com/admin/Files/upload/aval-olom-tajrobi-1404.pdf",
       "image_link": "http://www.chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/1404-1405/C106.jpg?itok=h4_nNGfE"
     }
   ],
@@ -60,4 +60,5 @@
     ]
   }
 }
+
 
