@@ -2,15 +2,18 @@
     "هفتم_فارسی": [
         {
             "name": "خرداد نوبت اول فارسی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "yes"
         },
         {
             "name": "امتحان نوبت دوم فارسی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "no"
         },
         {
             "name": "آزمون فارسی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "no"
         }
     ],
     "هشتم_علوم": [
@@ -30,15 +33,18 @@
     "دهم_تجربی_شیمی": [
         {
             "name": "خرداد نوبت اول شیمی تجربی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "no"
         },
         {
             "name": "امتحان نوبت دوم شیمی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "yes"
         },
         {
             "name": "آزمون شیمی تجربی",
-            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
+            "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf",
+            "answer" : "yes"
         }
     ],
     "یازدهم_ریاضی_هندسه": [
@@ -55,4 +61,5 @@
             "link": "http://www.chap.sch.ir/sites/default/files/lbooks/1404-1405/8/C105.pdf"
         }
     ]
+
 }
