@@ -1,0 +1,50 @@
+{
+  "هفتم": [
+    {
+      "lessonName": "درس فارسی",
+      "lessonTag": "فارسی"
+    },
+    {
+      "lessonName": "درس ریاضی",
+      "lessonTag": "ریاضی"
+    },
+    {
+      "lessonName": "درس علوم",
+      "lessonTag": "علوم"
+    },
+    {
+      "lessonName": "درس مطالعات اجتماعی",
+      "lessonTag": "اجتماعی"
+    }
+  ],
+  "دهم": {
+    "ریاضی": [
+      {
+        "lessonName": "درس فیزیک",
+        "lessonTag": "فیزیک"
+      },
+      {
+        "lessonName": "درس هندسه",
+        "lessonTag": "هندسه"
+      },
+      {
+        "lessonName": "درس شیمی",
+        "lessonTag": "شیمی"
+      }
+    ],
+    "تجربی": [
+      {
+        "lessonName": "درس زیست",
+        "lessonTag": "زیست"
+      },
+      {
+        "lessonName": "درس شیمی",
+        "lessonTag": "شیمی"
+      },
+      {
+        "lessonName": "درس آزمایشگاه",
+        "lessonTag": "آزمایشگاه"
+      }
+    ]
+  }
+}
